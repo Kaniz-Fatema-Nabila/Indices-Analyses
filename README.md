@@ -48,9 +48,9 @@ You can visit the following dashboards here:
     ```bash
    python web_scraping/commodity_future.py
    ```
-6. You will get the scrapped data in the .CSV files
+6. You will get the scrapped data in the CSV files
 
 ## Data Transformation
-The data collected from the CSV files have been cleaned and transformed into data suitable for analysing.
-You can find the data transformation [here](https://colab.research.google.com/drive/189Ig4Fq94ipjIfR6J-JloYN90rthL5q0?usp=drive_link).
+The data collected from the CSV files have been cleaned and transformed into suitable forms. The transfomed data have been converted into CSV files for the data analysis and visualization.
+You can find the data transformation and the CSV files [here](https://colab.research.google.com/drive/189Ig4Fq94ipjIfR6J-JloYN90rthL5q0?usp=drive_link).
       
