@@ -5,7 +5,7 @@ The project aims to collect data of the indices of different categories of marke
 Then the collected data is utilized to analyze the market indices and visualize the following correlations using Tableau Dashboards:
 
 1. Analyze the geographical distribution of indices. Compare indices from different region and visualize them.
-2. Major orld market indices and their performance over time. Visualize how indices changed over days, months and years.
+2. Major world market indices and their performance over time. Visualize how indices changed over days, months and years.
 3. Analyze future indices and visualize their performance over days, months and years.
 4. Analyze the real time commodity futures prices, their performances and technique and visualize with charts.
 
