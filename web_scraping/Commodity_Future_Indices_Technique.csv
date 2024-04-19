@@ -1,0 +1,35 @@
+Country,Name,Hourly,Daily,Weekly,Monthly
+,Gold,Strong Sell,Strong Buy,Strong Buy,Strong Buy
+,XAU/USD,Strong Sell,Strong Buy,Strong Buy,Strong Buy
+,Silver,Strong Buy,Strong Buy,Strong Buy,Strong Buy
+,XAG/USD,Strong Buy,Strong Buy,Strong Buy,Strong Buy
+United States,Copper,Strong Buy,Strong Buy,Strong Buy,Strong Buy
+United States,Platinum,Sell,Strong Buy,Strong Buy,Buy
+United States,Palladium,Neutral,Buy,Buy,Strong Sell
+United States,Crude Oil WTI,Strong Sell,Buy,Strong Buy,Strong Buy
+United Kingdom,Brent Oil,Strong Sell,Buy,Strong Buy,Strong Buy
+United States,Natural Gas,Strong Sell,Strong Sell,Strong Sell,Strong Sell
+United States,Heating Oil,Strong Sell,Strong Sell,Strong Sell,Sell
+United States,Gasoline RBOB,Strong Sell,Buy,Strong Buy,Strong Buy
+United Kingdom,London Gas Oil,Strong Sell,Strong Sell,Neutral,Neutral
+United Kingdom,Aluminium,Neutral,Strong Buy,Strong Buy,Strong Buy
+United Kingdom,Zinc,Buy,Strong Buy,Strong Buy,Strong Buy
+United Kingdom,Nickel,Strong Buy,Strong Buy,Neutral,Strong Sell
+United Kingdom,Copper,Strong Buy,Strong Buy,Strong Buy,Strong Buy
+United States,US Wheat,Neutral,Strong Sell,Strong Sell,Strong Sell
+United States,Rough Rice,Strong Buy,Strong Buy,Strong Buy,Strong Buy
+United States,US Corn,Strong Sell,Strong Sell,Strong Sell,Strong Sell
+United States,US Soybeans,Strong Sell,Strong Sell,Strong Sell,Strong Sell
+United States,US Soybean Oil,Strong Sell,Strong Sell,Strong Sell,Strong Sell
+United States,US Soybean Meal,Strong Sell,Neutral,Strong Sell,Strong Sell
+United States,US Cotton #2,Strong Sell,Strong Sell,Strong Sell,Strong Sell
+United States,US Cocoa,Neutral,Strong Buy,Strong Buy,Strong Buy
+United States,US Coffee C,Strong Buy,Strong Buy,Strong Buy,Strong Buy
+United Kingdom,London Coffee,Buy,Strong Buy,Strong Buy,Strong Buy
+United States,US Sugar #11,Strong Sell,Strong Sell,Strong Sell,Sell
+United States,Orange Juice,Strong Buy,Strong Buy,Strong Buy,Strong Buy
+United States,Live Cattle,Strong Buy,Sell,Buy,Strong Buy
+United States,Lean Hogs,Strong Buy,Strong Buy,Strong Buy,Strong Buy
+United States,Feeder Cattle,Strong Buy,Strong Sell,Strong Sell,Strong Buy
+United States,Lumber,Strong Sell,Strong Sell,Strong Sell,Neutral
+United States,Oats,Strong Buy,Neutral,Strong Sell,Strong Sell
