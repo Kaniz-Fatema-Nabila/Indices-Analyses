@@ -18,7 +18,7 @@ You can visit the following dashboards here:
 ## Interesting Findings
 1. The United States have the maximum number of major indices.
 2. The highest last price belongs to S&P/BYMA Argentina General from Argentina.
-3. Vietnam experiencing the highest change of price in the negative direction followed by India.
+3. Vietnam experiencing the highest change of indices prices in the negative direction followed by India.
 4. The performances of the indices of the United States over a week and month are the highest.
 5. The performances of BIST 100 from Turkey over 1 and 3 years are the highest of all other major indices which are about 90.1% and 587.4% respectively.
 6. iBovespa from Brazil is to be the future indice with the highest price which is around $126,184.
