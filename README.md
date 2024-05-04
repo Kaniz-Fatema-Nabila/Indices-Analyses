@@ -15,6 +15,18 @@ You can visit the following dashboards here:
 3. [Indices Future](https://public.tableau.com/app/profile/kaniz.fatema.nabila/viz/IndicesFuture/Dashboard1)
 4. [Commodity Future Indices](https://public.tableau.com/app/profile/kaniz.fatema.nabila/viz/CommodityFutureIndices/Dashboard1)
 
+## Interesting Findings
+1. The United States have the maximum number of major indices.
+2. The highest last price belongs to S&P/BYMA Argentina General from Argentina.
+3. Vietnam experiencing the highest change of price in the negative direction followed by India.
+4. The performances of the indices of the United States over a week and month are the highest.
+5. The performances of BIST 100 from Turkey over 1 and 3 years are the highest of all other major indices which are about 90.1% and 587.4% respectively.
+6. iBovespa from Brazil is to be the future indice with the highest price which is around $126,184.
+7. DAX and TecDAX from Germany will experience the highest percentage of change in future among the other indices.
+8. The performance of US Tech 100 over the next 1 and 3 years will be the highest.
+9. For the time being Copper is the commodity with the highest price followed by Nickel.
+10. The performances of Copper over a day, week and month is the highest whereas performances over 1 and 3 years is the highest for US Cocoa.
+     
 ## Build from sources
 1. Clone the repository
    ```bash
