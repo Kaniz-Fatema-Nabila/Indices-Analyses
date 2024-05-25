@@ -1,4 +1,5 @@
-# Indices-Analyses
+# Stock-Market-Indices-Analyses
+The data has been colleted from [Investing.com](https://www.investing.com/). Around 629 data has been collected for different categories of market.
 
 ## Problem statement:
 The project aims to collect data of the indices of different categories of market from [this website](https://www.investing.com/indices/world-indices).
@@ -30,7 +31,7 @@ You can visit the following dashboards here:
 ## Build from sources and run the web scrapers
 1. Clone the repository
    ```bash
-   https://github.com/Kaniz-Fatema-Nabila/Indices-Analyses.git
+   git clone https://github.com/Kaniz-Fatema-Nabila/Indices-Analyses.git
    ```
 2. Initialize and activate virtual environment
    ```bash
