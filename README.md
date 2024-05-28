@@ -10,23 +10,21 @@ Then the collected data is utilized to analyze the market indices and visualize 
 3. Analyze future indices and visualize their performance over days, months and years.
 4. Analyze the real time commodity futures prices, their performances and technique and visualize with charts.
 
-You can visit the following dashboards here:
-1. [World Indices](https://public.tableau.com/app/profile/kaniz.fatema.nabila/viz/WorldIndices_17132836521760/Dashboard1)
-2. [Major Indices](https://public.tableau.com/app/profile/kaniz.fatema.nabila/viz/MajorIndices/Dashboard1)
-3. [Indices Future](https://public.tableau.com/app/profile/kaniz.fatema.nabila/viz/IndicesFuture/Dashboard1)
-4. [Commodity Future Indices](https://public.tableau.com/app/profile/kaniz.fatema.nabila/viz/CommodityFutureIndices/Dashboard1)
+You can visit the dashboards [here](https://public.tableau.com/app/profile/kaniz.fatema.nabila/viz/CommodityFutureIndices/WorldIndices)
+
 
 ## Some Interesting Findings from the Analysis
 1. **The United States** have the **maximum** number of **major indices**.
-2. The **highest** last price belongs to **S&P/BYMA Argentina General** from Argentina.
-3. **Vietnam** experiencing the **highest** change of indices prices in the **negative direction** followed by **India**.
+2. The **highest** last price belongs to **Dow Jones** from The United States.
+3. **China A50** experiencing the **highest** change of indices prices.
 4. The **performances** of the indices of **the United States** over a week and month are the **highest**.
 5. The **performances** of **BIST 100** from Turkey over **1** and **3 years** are the **highest** of all other major indices which are about **90.1%** and **587.4%** respectively.
 6. **iBovespa** from Brazil is to be the future indice with the **highest** price which is around **$126,184**.
 7. **DAX** and **TecDAX** from Germany will experience the **highest** percentage of change in future among the other indices.
-8. The **performances** of **US Tech 100** over the next **1** and **3 years** is to be the **highest**.
-9. For the time being **Copper** is the commodity with the **highest** price followed by **Nickel**.
-10. The **performances** of **Copper** over a **day**, **week** and **month** is the **highest** whereas **performances** over **1** and **3 years** is the **highest** for **US Cocoa**.
+8. The **performances** of **S&P 500 VIX** over the next **week** and **month** is to be the **highest**.
+9. The **performances** of **US Tech 100** over the next **1** and **3 years** is to be the **highest**.
+10. For the time being **Nickel** is the commodity with the **highest** price followed by **US Cocoa**.
+11. The **average performances** over a **day**, **week** and **month** and over **1** and **3 years** is the **highest** for **US Cocoa**.
      
 ## Build from sources and run the web scrapers
 1. Clone the repository
