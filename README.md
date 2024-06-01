@@ -14,7 +14,8 @@ You can visit the dashboards [here](https://public.tableau.com/app/profile/kaniz
 
 
 ## Some Interesting Findings from the Analysis
-1. **India** has the **maximum** number of **world indices** which is **21**
+<img src = "screenshots/world_indice.png" width="1200" height="500">
+1. **India** has the **maximum** number of **world indices** which is **21**.
 1. **The United States** have the **maximum** number of **major indices**.
 2. The **highest** last price belongs to **Dow Jones** from The United States.
 3. **China A50** experiencing the **highest** change of indices prices.
