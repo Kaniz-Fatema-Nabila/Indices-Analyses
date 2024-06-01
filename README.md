@@ -14,19 +14,29 @@ You can visit the dashboards [here](https://public.tableau.com/app/profile/kaniz
 
 
 ## Some Interesting Findings from the Analysis
-<img src = "screenshots/world_indice.png" width="1200" height="500">
-1. **India** has the **maximum** number of **world indices** which is **21**.
-1. **The United States** have the **maximum** number of **major indices**.
-2. The **highest** last price belongs to **Dow Jones** from The United States.
-3. **China A50** experiencing the **highest** change of indices prices.
-4. The **performances** of the indices of **the United States** over a week and month are the **highest**.
-5. The **performances** of **BIST 100** from Turkey over **1** and **3 years** are the **highest** of all other major indices which are about **90.1%** and **587.4%** respectively.
-6. **iBovespa** from Brazil is to be the future indice with the **highest** price which is around **$126,184**.
-7. **DAX** and **TecDAX** from Germany will experience the **highest** percentage of change in future among the other indices.
-8. The **performances** of **S&P 500 VIX** over the next **week** and **month** is to be the **highest**.
-9. The **performances** of **US Tech 100** over the next **1** and **3 years** is to be the **highest**.
-10. For the time being **Nickel** is the commodity with the **highest** price followed by **US Cocoa**.
-11. The **average performances** over a **day**, **week** and **month** and over **1** and **3 years** is the **highest** for **US Cocoa**.
+<img src = "screenshots/world_indice.png" width="1200" height="450">
+
+1. **India** has the **maximum** number of **world indices** which is **21**.<br/>
+
+<img src = "screenshots/major_indice.png" width="1200" height="450">
+
+2. **The United States** have the **maximum** number of **major indices**.<br/>
+3. The **highest** last price belongs to **Dow Jones** from The United States.<br/>
+4. **China A50** experiencing the **highest** change of indices prices.<br/>
+5. The **performances** of the indices of **the United States** over a week and month are the **highest**.<br/>
+6. The **performances** of **BIST 100** from Turkey over **1** and **3 years** are the **highest** of all other major indices which are about **90.1%** and **587.4%** respectively. <br/>
+
+<img src = "screenshots/indice_future.png" width="1200" height="450">
+
+7. **iBovespa** from Brazil is to be the future indice with the **highest** price which is around **$126,184**.<br/>
+8. **DAX** and **TecDAX** from Germany will experience the **highest** percentage of change in future among the other indices.<br/>
+8. The **performances** of **S&P 500 VIX** over the next **week** and **month** is to be the **highest**.<br/>
+9. The **performances** of **US Tech 100** over the next **1** and **3 years** is to be the **highest**.<br/>
+
+<img src = "screenshots/commodity_indice.png" width="1200" height="450">
+
+10. For the time being **Nickel** is the commodity with the **highest** price followed by **US Cocoa**.<br/>
+11. The **average performances** over a **day**, **week** and **month** and over **1** and **3 years** is the **highest** for **US Cocoa**.<br/>
      
 ## Build from sources and run the web scrapers
 1. Clone the repository
