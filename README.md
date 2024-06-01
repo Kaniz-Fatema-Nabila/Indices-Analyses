@@ -1,5 +1,5 @@
 # Stock-Market-Indices-Analyses
-The data has been colleted from [Investing.com](https://www.investing.com/). Around 629 data has been collected for different categories of market.
+The data has been colleted from [Investing.com](https://www.investing.com/). Around **629** data has been collected for different categories of market.
 
 ## Problem statement:
 The project aims to collect data of the indices of different categories of market from [this website](https://www.investing.com/indices/world-indices).
